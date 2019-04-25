@@ -22,4 +22,4 @@ git clone https://github.com/aeyuk/Word-Counts
 
 Download whatever text file you would like to use in your program to the project directory.
 
-Build the project using `make` and execute using `./project11 filename.txt`
+Build the project using `make` and execute using `./wordcounts filename.txt`

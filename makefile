@@ -1,6 +1,6 @@
 
 all:
-	g++ -Wall -std=c++11 main.cpp -o project1
+	g++ -Wall -std=c++11 main.cpp -o wordcounts
 
 clean:
-	rm *.o project1
+	rm *.o wordcounts
